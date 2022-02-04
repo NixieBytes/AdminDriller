@@ -9,7 +9,7 @@ Download the project:
 
 
 ```python
-git clone https://
+git clone https://github.com/NixieBytes/AdminDriller
 ```
 
 Enter the project folder and install:
